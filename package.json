@@ -1,0 +1,22 @@
+{
+  "name": "tenderbox",
+  "version": "1.0.0",
+  "description": "tenderbox Africa repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcelestinomaria/Tenderbox.git"
+  },
+  "keywords": [
+    "near"
+  ],
+  "author": "celestino, Allan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcelestinomaria/Tenderbox/issues"
+  },
+  "homepage": "https://github.com/kcelestinomaria/Tenderbox#readme"
+}
