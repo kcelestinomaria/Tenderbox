@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kcelestinomaria/Tenderbox/issues"
   },
-  "homepage": "https://github.com/kcelestinomaria/Tenderbox#readme"
+  "homepage": "https://github.com/kcelestinomaria/Tenderbox#readme",
+  "devDependencies": {
+    "near-sdk-as": "^3.1.0"
+  }
 }
