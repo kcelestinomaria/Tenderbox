@@ -1,0 +1,3 @@
+[submodule "contractsTenderbox"]
+	path = contractsTenderbox
+	url = https://github.com/kcelestinomaria/Tenderbox.git
